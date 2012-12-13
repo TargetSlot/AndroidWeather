@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Погода</string>
+    <string name="text_info">Обновите данные о погоде.</string>
+    <string name="text_informer">Предоставлено Gismeteo.Ru</string>
+    <string name="button_refresh_title">Обновить</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>
